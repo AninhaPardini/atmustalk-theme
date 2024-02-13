@@ -15,3 +15,10 @@
 [![Site](https://img.shields.io/badge/Nosso-Site-6366F1?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://atmustalk.com.br/app/dashboard)
 
 Esse tema foi feito por um estágiario, por favor não nos julgue, a sociedade já fa isso por você 🤝
+
+## Como faço para instalar?
+
+Ainda não foi colocado na loja de extensões então basta clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
+
+
+
