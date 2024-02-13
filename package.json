@@ -1,0 +1,25 @@
+{
+  "name": "atmustalk-theme",
+  "displayName": "AtmusTalk-theme",
+  "description": "Tema para os devs da AtmusTalk",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AtmusTalk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AtmusTalk Theme-color-theme.json"
+      }
+    ]
+  }
+}
