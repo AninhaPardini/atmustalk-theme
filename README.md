@@ -18,7 +18,7 @@ Esse tema foi feito por um estágiario, por favor não nos julgue, a sociedade j
 
 ## Como faço para instalar?
 
-Ainda não foi colocado na loja de extensões então basta clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
+Como ele ainda não foi colocado na loja de extensões, você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
 
 
 
