@@ -4,8 +4,8 @@
 </section>
 
 <section align="center">
-  <img style="width: 12rem;" src="https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/logo_atmus_talk_branca.png" alt="Logo Atmus">
-  <!-- <h1>Atmus Talk</h1> -->
+  
+  <h1>Atmus Talk Theme</h1>
 </section>
 
 ------
