@@ -1,10 +1,10 @@
 
 <section align="center">
-  <img style="width: 38rem;" src="https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/atmus-talk-theme-preview.png?token=GHSAT0AAAAAACNPADSDINBZRXZ7JU243GSCZOKXYIA" alt="Logo Atmus">
+  <img style="width: 38rem;" src="https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/atmus-talk-theme-preview.png" alt="Banner do Tema">
 </section>
 
 <section align="center">
-  <img style="width: 12rem;" src="https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/logo_atmus_talk_branca.png?token=GHSAT0AAAAAACNJ5CBR3XHQZZLAXLJBSSEAZOKZG7Q" alt="Logo Atmus">
+  <img style="width: 12rem;" src="https://raw.githubusercontent.com/AninhaPardini/images-for-github/main/logo_atmus_talk_branca.png" alt="Logo Atmus">
   <!-- <h1>Atmus Talk</h1> -->
 </section>
 
