@@ -4,8 +4,7 @@
 </section>
 
 <section align="center">
-  
-  <h1>Atmus Talk Theme</h1>
+  <h1>🚀 Atmus Talk Theme</h1>
 </section>
 
 ------
@@ -21,4 +20,7 @@ Esse tema foi feito por um estágiario, por favor não nos julgue, a sociedade j
 Como ele ainda não foi colocado na loja de extensões, você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
 
 
+<section align="center">
+  <img src="https://github.com/AninhaPardini/images-for-github/blob/main/atmustalk-only-logo.png?raw=true"/>
+</section>
 
