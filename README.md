@@ -17,7 +17,7 @@ Esse tema foi feito por um estágiaria, por favor não nos julgue, a sociedade j
 
 ## Como faço para instalar?
 
-Como ele ainda não foi colocado na loja de extensões, você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
+Você pode encontrar ele na loja de extensões pelo link [aqui](https://marketplace.visualstudio.com/items?itemName=AninhaPardini.atmustalk-theme), você deve então clonar este repositório, abri-lo no vscode e digitar no terminal ```vsce package```, e logo após ```ctrl + shift + p``` ou ```cmd + shift + p``` e digital VSIX que ele irá te redirecionar e você poderá procurar o arquivo gerado com final ```.visx```.
 
 
 <section align="center">
