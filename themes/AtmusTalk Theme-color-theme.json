@@ -1,6 +1,9 @@
 {
-  "name": "Atmus Talk Theme",
+  "name": "atmus-talk-theme",
+  "displayName": "Atmus Talk Theme",
   "type": "dark",
+  "version": "1.0.0",
+  "publisher": "AninhaPardini",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {

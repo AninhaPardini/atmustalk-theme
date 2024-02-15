@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Primeira versão do Tema com alinhamento de cores da palheta roxa e sintaxe padrozinada para todas as linguagens.
