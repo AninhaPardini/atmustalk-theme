@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atmus.tecnologia)
 [![Site](https://img.shields.io/badge/Nosso-Site-6366F1?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://atmustalk.com.br/app/dashboard)
 
-Esse tema foi feito por um estágiaria, por favor não nos julgue, a sociedade já fa isso por você 🤝
+Esse tema foi feito por uma estágiaria, por favor não nos julgue, a sociedade já fa isso por você 🤝
 
 ## Como faço para instalar?
 
